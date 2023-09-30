@@ -5,7 +5,9 @@
 
 <p align="left" style="margin-left:50px"> <img src="https://komarev.com/ghpvc/?username=souf139&label=Profile%20views&color=0e75b6&style=flat" alt="souf139" /> </p>
 
-<p align="left" width="150%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souf139" alt="souf139" /></a> </p>
+<p align="left" width="150%">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><div style="margin-right: 10px; display: inline-block;"><img src="https://github-profile-trophy.vercel.app/?username=souf139" alt="souf139" /></div></a>
+
 
 - 🌱 I’m currently learning **vuejs , reactjs**
 
